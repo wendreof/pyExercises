@@ -4,8 +4,6 @@
 typed = str(input('Type your full name: ')).strip().title()
 
 div = typed.split()
-#print(div)
-#print(len(div))
 last = len(div)-1
 
 print('Your 1st name is: {}'.format(div[0]))
