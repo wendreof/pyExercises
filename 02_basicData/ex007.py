@@ -1,3 +1,5 @@
+# [PT-BR] Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+
 import math
 
 n1 = int(input('Type some number: '))
