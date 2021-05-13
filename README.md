@@ -1,4 +1,4 @@
-# Some solved exercises in Python
+# List of hundred solved exercises using Python language.
 
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwendreolf)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fwendreof%2FpyExercises%2F)
 [![wakatime](https://wakatime.com/badge/github/wendreof/pyExercises.svg)](https://wakatime.com/badge/github/wendreof/pyExercises)
